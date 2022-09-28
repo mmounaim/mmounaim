@@ -1,0 +1,5 @@
+- 👋 Hi, 
+- I’m mohamed mounaim
+- Web developer 
+- I use PHP (Symfony), JavaScript/TypeScript (React/Angular)
+- I do DEVOPS with Docker, Gitlab, AWS
